@@ -1,0 +1,41 @@
+.service {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+
+    /* #FF3811 */
+
+    color: #FF3811;
+    text-align: center;
+}
+
+.service-title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 54px;
+
+    /* Dark 01 */
+    text-align: center;
+
+    color: #151515;
+}
+
+.service-des {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    /* or 188% */
+
+    text-align: center;
+    text-transform: capitalize;
+
+    /* Dark 03 */
+
+    color: #737373;
+}

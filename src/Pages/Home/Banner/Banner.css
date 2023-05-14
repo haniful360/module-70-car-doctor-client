@@ -1,0 +1,28 @@
+.banner-title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 75px;
+    /* or 125% */
+
+
+    /* White Color */
+
+    color: #FFFFFF;
+}
+
+.banner-des {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    /* or 167% */
+
+    text-transform: capitalize;
+
+    /* White Color */
+
+    color: #FFFFFF;
+}
